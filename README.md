@@ -13,3 +13,12 @@ Group Assignment: Understanding System Design and Connecting a Database to the B
 <video controls>
   <source src="./mongo/2024-07-15 23-16-08.mp4" type="video/mp4">
 </video>
+
+
+## ElasticSearch CRUD (in `elasticsearch` folder)
+
+
+## FAISS CRUD (in `facebook` folder)
+
+
+## Neo4J CRUD (in `neo4j` folder)
