@@ -17,8 +17,25 @@ Group Assignment: Understanding System Design and Connecting a Database to the B
 
 ## ElasticSearch CRUD (in `elasticsearch` folder)
 
+<video controls>
+  <source src="./mongo/2024-07-21 20-07-35.mkv" type="video/mp4">
+</video>
 
 ## FAISS CRUD (in `facebook` folder)
 
+<video controls>
+  <source src="./mongo/2024-07-21 23-16-43.mkv" type="video/mp4">
+</video>
 
 ## Neo4J CRUD (in `neo4j` folder)
+
+<video controls>
+  <source src="./mongo/2024-07-21 23-32-47.mp4" type="video/mp4">
+</video>
+
+#### Group 1:
+- Aditya Khandelwal
+- Ninan Jadhav
+- Vikram Pathak
+- Vinanti Savla
+- Yash Joglekar
